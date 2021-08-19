@@ -1,4 +1,4 @@
-FROM python:2.7.13
+FROM python:2.7.15
 
 ADD bin /app/bin
 ADD server /app/server
