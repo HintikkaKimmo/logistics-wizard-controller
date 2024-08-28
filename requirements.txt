@@ -1,5 +1,5 @@
 Flask==0.10.1
-Flask-Cors==2.1.2
+Flask-Cors==4.0.1
 gunicorn==19.4.5
 requests==2.10.0
 PyJWT==1.4.0
