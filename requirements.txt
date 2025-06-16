@@ -1,7 +1,7 @@
 Flask==0.10.1
-Flask-Cors==2.1.2
+Flask-Cors==6.0.0
 gunicorn==19.4.5
-requests==2.10.0
+requests==2.32.4
 PyJWT==1.4.0
 decorator==4.0.4
 cf-deployment-tracker==1.0.4
